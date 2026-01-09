@@ -10,7 +10,7 @@
 
 # Tech Stack
 <img src="https://skillicons.dev/icons?i=c,cpp,aws,css,docker,git,github,html,jenkins,kubernetes,mysql,npm,postman" />
-<img src="https://assets.streamlinehq.com/image/private/w_20,h_20,ar_1/f_auto/v1/icons/3/datadog-f8p75tdx7ecxlq2tblmx5.png/datadog-670p4opwhf8i73gmimq5kh.png?_a=DATAg1AAZAA0" />
+<img src="https://www.streamlinehq.com/icons/svg-logos?search=datadog&icon=ico_LDb4rG9O9nsTNmYB" />
 
 
 # GitHub Stats:
