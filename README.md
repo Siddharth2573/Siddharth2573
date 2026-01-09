@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello folks !<br>Myself Siddharth Yadav<br>Location: Bengaluru, India<br>I am a senior data engineer working at LTIMindtree. <br>I have an experience of 3.5 years.
+#
+<h1 align="center">Hi 👋, I'm Siddharth</h1>
 
 
 #
